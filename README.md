@@ -1,7 +1,7 @@
 # tiktoklive-comment-log-in-Excel
 tiktoklive comment log in Excel
 
-# TIKTOKでコメントのログを取得してエクセルで保存する方法。
+# TIKTOKLIVEでコメントのログを取得してエクセルで保存する方法。
 コメント嵐対策やTIKTOKLIVE内のBOT調査怪しいアカウントの調査に使えます。
 またギフトを投げた額・投げた時刻・コメントした時刻・宝箱を投げた額・時刻などのデータをとれます。
 isaackogan/TikTokLiveとopenpyxlを使っています。
