@@ -13,9 +13,10 @@ isaackogan/TikTokLiveとopenpyxlを使っています。
 
 ## このプログラムに必要なもの
 
+・python
+
 ・https://github.com/isaackogan/TikTokLive
 
-・python
 
 ・openpyxl
 
