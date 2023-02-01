@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/78278542/209412960-b3a54c4e-08e1-4af8-bfee-c54fdcf59426.png)
+![disk2](https://user-images.githubusercontent.com/78278542/216151109-cd7c7d23-3cdb-4c36-8c7b-65b22ea6913d.gif)
 
 # tiktoklive-comment-log-in-Excel
 tiktoklive comment log in Excel
